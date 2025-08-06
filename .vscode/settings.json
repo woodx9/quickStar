@@ -1,0 +1,15 @@
+{
+  "typescript.preferences.includePackageJsonAutoImports": "off",
+  "typescript.suggest.autoImports": false,
+  "files.exclude": {
+    "out": false,
+    "node_modules": true,
+    ".vscode-test": true
+  },
+  "search.exclude": {
+    "out": true,
+    "node_modules": true,
+    ".vscode-test": true
+  },
+  "typescript.tsc.autoDetect": "off"
+}
