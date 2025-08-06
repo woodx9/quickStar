@@ -1,3 +1,7 @@
+## 使用地址
+
+[在 Visual Studio Marketplace 上查看 Quick Star 扩展](https://marketplace.visualstudio.com/items?itemName=woodx9.quick-star)
+
 # Quick Star VSCode 扩展
 
 使用 LLM API 和可自定义规则转换选中的文本。
@@ -74,6 +78,10 @@ Quick Star扩展的首次发布。
 ## 许可证
 
 MIT许可证
+
+## Marketplace Link
+
+[View Quick Star Extension on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=woodx9.quick-star)
 
 # Quick Star VSCode Extension
 
